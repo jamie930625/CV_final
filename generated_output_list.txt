@@ -1,0 +1,26 @@
+total 28G
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:50 ai_AMS05_27.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:51 ai_AMS05_32.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:52 ai_AMS05_37.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:53 ai_AMS05_42.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 28 18:08 ai_H2_H3_AMS05_27.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 28 18:09 ai_H2_H3_AMS05_32.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 28 18:09 ai_H2_H3_AMS05_37.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 28 18:10 ai_H2_H3_AMS05_42.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:46 ai_Procession_25.yuv
+-rw-r--r-- 1 ddmanddman users    0 May 28 18:02 ai_Procession_27.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:47 ai_Procession_30.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:48 ai_Procession_35.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:49 ai_Procession_40.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:42 ai_WalkInPark_27.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:43 ai_WalkInPark_32.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:44 ai_WalkInPark_37.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:45 ai_WalkInPark_42.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:38 ai_Zombie_27.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:39 ai_Zombie_32.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:40 ai_Zombie_37.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 31 16:41 ai_Zombie_42.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 27 21:34 my_baseline_H2_H3_AMS05_27.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 27 21:34 my_baseline_H2_H3_AMS05_32.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 27 21:34 my_baseline_H2_H3_AMS05_37.yuv
+-rw-r--r-- 1 ddmanddman users 1.2G May 27 21:34 my_baseline_H2_H3_AMS05_42.yuv
