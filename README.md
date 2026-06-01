@@ -14,3 +14,7 @@ fushengyu@media.ee.ntu.edu.tw
 報告跟投影片的結果請出示 4 隻之前給的 sequences 平均結果和 6 隻 (原本的 4
 隻+ hidden 的 2 隻)的平均結果。請將數據結果放在書面報告跟投影片報告的前
 幾頁。遲交報告以零分做計算
+
+
+
+<img width="1251" height="664" alt="image" src="https://github.com/user-attachments/assets/4a76484f-fa62-4b69-9e12-9a92eda657c5" />
