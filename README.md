@@ -1,4 +1,11 @@
 # CV_final
+# 第八名的方法（新版train_train_0531_SR_Loss.py＋SR_Loss_ep147_loss0.0189.pth＋新版inference_run_ultimate_pipeline.py）
+# 總分：-30.91
+
+
+
+
+
 
 現在的code是第九名的（嘗試其他方法中）
 
