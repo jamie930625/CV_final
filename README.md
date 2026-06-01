@@ -4,7 +4,7 @@
 
 
 
-
+第九名的方法（train_universal.py ＋universal_max_ep200_loss0.0175.pth＋run_ai_pipeline.py）
 
 
 
