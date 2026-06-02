@@ -1,6 +1,9 @@
 # CV_final
 # 第八名的方法（新版train_train_0531_SR_Loss.py＋SR_Loss_ep147_loss0.0189.pth＋新版inference_run_ultimate_pipeline.py）
 # 總分：-30.91
+# 隱藏測資：<img width="759" height="88" alt="image" src="https://github.com/user-attachments/assets/d4b7ab6b-3b91-4ff7-abb9-929da21dc1ac" />
+
+
 
 
 
